@@ -1,0 +1,15 @@
+D:\oop\lab_5\lab5_task1\bin\Debug\net6.0\lab5_task1.exe
+D:\oop\lab_5\lab5_task1\bin\Debug\net6.0\lab5_task1.deps.json
+D:\oop\lab_5\lab5_task1\bin\Debug\net6.0\lab5_task1.runtimeconfig.json
+D:\oop\lab_5\lab5_task1\bin\Debug\net6.0\lab5_task1.dll
+D:\oop\lab_5\lab5_task1\bin\Debug\net6.0\lab5_task1.pdb
+D:\oop\lab_5\lab5_task1\obj\Debug\net6.0\lab5_task1.csproj.AssemblyReference.cache
+D:\oop\lab_5\lab5_task1\obj\Debug\net6.0\lab5_task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\lab_5\lab5_task1\obj\Debug\net6.0\lab5_task1.AssemblyInfoInputs.cache
+D:\oop\lab_5\lab5_task1\obj\Debug\net6.0\lab5_task1.AssemblyInfo.cs
+D:\oop\lab_5\lab5_task1\obj\Debug\net6.0\lab5_task1.csproj.CoreCompileInputs.cache
+D:\oop\lab_5\lab5_task1\obj\Debug\net6.0\lab5_task1.dll
+D:\oop\lab_5\lab5_task1\obj\Debug\net6.0\refint\lab5_task1.dll
+D:\oop\lab_5\lab5_task1\obj\Debug\net6.0\lab5_task1.pdb
+D:\oop\lab_5\lab5_task1\obj\Debug\net6.0\lab5_task1.genruntimeconfig.cache
+D:\oop\lab_5\lab5_task1\obj\Debug\net6.0\ref\lab5_task1.dll
